@@ -4,29 +4,285 @@ title: Calendar
 uid: 63c81b3f-5eaf-6bf8-a7a6-5754258ef6c2
 ---
 
-| SES # | TOPICS | DUE DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**A. Analyzing markets and identifying opportunities**{{< /td-colspan >}} |||
-| 1 | Introduction and company analysis | &nbsp; |
-| 2 | Competitive analysis | Marketing survey due |
-| 3 | Customer analysis I | Assignment 1 due |
-| 4 | Customer analysis II and III: Value to the customer and customer lifetime value | &nbsp; |
-| {{< td-colspan 3 >}}**B. Developing marketing strategy**{{< /td-colspan >}} |||
-| 5 | Developing market strategy | &nbsp; |
-| 6 | Segmentation, targeting and positioning | Assignment 2 due |
-| 7 | EVC-based strategy | &nbsp; |
-| 8 | STP-based strategy and IBS | Assignment 3 due |
-| 9 | IBS, social responsibility and marketing | &nbsp; |
-| 10 | Branding | &nbsp; |
-| 11 | Developing marketing strategy for innovation | Case-write up due |
-| {{< td-colspan 3 >}}**C. Formulating marketing programs**{{< /td-colspan >}} |||
-| 12 | Product | &nbsp; |
-| 13 | Marketing products for multi-sided demand markets | Assignment 4 due |
-| 14 | Price | &nbsp; |
-| 15 | Promotion | Project proposal due |
-| 16 | Distribution | &nbsp; |
-| {{< td-colspan 3 >}}**D. Special topics**{{< /td-colspan >}} |||
-| 17 | International market entry | &nbsp; |
-| 18 | International branding | &nbsp; |
-| 19 | Course summary | &nbsp; |
-| 20 | Team presentations | Final project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**A. Analyzing markets and identifying opportunities**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and company analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Competitive analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Marketing survey due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Customer analysis I
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Customer analysis II and III: Value to the customer and customer lifetime value
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**B. Developing marketing strategy**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Developing market strategy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Segmentation, targeting and positioning
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+EVC-based strategy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+STP-based strategy and IBS
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+IBS, social responsibility and marketing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Branding
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Developing marketing strategy for innovation
+{{< tdclose >}}
+{{< tdopen >}}
+Case-write up due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**C. Formulating marketing programs**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Product
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Marketing products for multi-sided demand markets
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Price
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Promotion
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Distribution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**D. Special topics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+International market entry
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+International branding
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Course summary
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Team presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
